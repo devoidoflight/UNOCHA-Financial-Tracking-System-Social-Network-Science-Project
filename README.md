@@ -36,3 +36,7 @@ These analyses were used to evaluate the **robustness** of the international hum
 ## Visualization
 
 ![Picture1](https://github.com/user-attachments/assets/408ac16f-aa35-4f43-b443-555db8160f48)
+
+This repository is open for academic and non-commercial research purposes. Researchers and practitioners are **free to use, modify, and build upon this work**, provided that proper **credit and citation** is given to the authors of this project.
+
+Please include a reference or link to this repository in any derivative work or publication.
